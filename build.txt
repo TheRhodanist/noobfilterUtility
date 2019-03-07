@@ -1,0 +1,6 @@
+author = snwflake
+version = 0.1.1
+displayName = Noobfilter Utility
+buildIgnore = .vs\*, Properties\*, *.csproj, *.user, obj\*, bin\*, *.config, .git\*
+includePDB = false
+side = Client
